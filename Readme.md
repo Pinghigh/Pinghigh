@@ -1,7 +1,9 @@
 
-# 某地高中生，不会皮炎通红，不会塞屁屁
+# 高一学生，来自 S2
 
-写会儿文档
+OI 之路刚刚起步，使用 ArchLinux
+
+除了写文档啥都不会了属于是
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinghigh&show_icons=true&theme=onedark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
