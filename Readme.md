@@ -1,6 +1,6 @@
 
 # 高一学生，来自 S2
-# senior 1 student from Shijiazhuang No.2 High School
+# Senior 1 student from Shijiazhuang No.2 High School
 
 OI 之路刚刚起步，使用 ArchLinux，车车人
 New to OI, ArchLinux user, Touhou fans
