@@ -2,7 +2,7 @@ OI 之路刚刚起步，使用 ArchLinux，车车人
 New to OI, ArchLinux user, Touhou fans
    
 除了写文档啥都不会了属于是   
-Less code force so could just edit some document
+Less code skills, so could only do some document editing
 
 重要通知:近期接到举报，大量新生被诈骗网站 https://toho-vote.info 坑骗，如果误入请不要慌张，在人物投票界面给多多良小伞投一票即可安全退出，请各位增强网络安全意识，避免上当受骗
 
