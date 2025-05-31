@@ -1,5 +1,5 @@
-退役了，使用 ArchLinux，车车人   
-Farewell OI, ArchLinux user, Touhou fans
+退役了，使用 ArchLinux，车车人，CS2 菜鸟   
+Farewell OI, ArchLinux user, Touhou fans, CS2 noob
    
 除了写文档啥都不会了属于是   
 Less code skills, so could only do some document editing
